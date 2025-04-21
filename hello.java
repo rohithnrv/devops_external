@@ -5,10 +5,3 @@ class hello
     System.out.println("HEllo Althaf");
   }
 }
-
-
-
-
-
-
-
